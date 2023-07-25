@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        I'm Pedro. Gil I have 17 years since my 15 years I have 
+        I'm Pedro. Gil I have 18 years since my 15 years I have 
         been studying and learning to program has not been easy, 
         but with my effort I have improved more and more using new 
         technologies that are on the market.
